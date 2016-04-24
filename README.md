@@ -21,6 +21,7 @@ You will need the following things properly installed on your computer:<br>
 3. Also in phpmyadmin, recreate the user you created initially in the database (username: book_admin and password: book, can also be found in the settings.php file)
 4. Open MAMP, select ```Preferences```, select ```Web Server``` tab, direct the ```Document Root``` at the top level of your project folder
 5. Navigate to ```http://localhost:8888```
+6. Login as user:admin pw:password
 
 ## Known Bugs
 
