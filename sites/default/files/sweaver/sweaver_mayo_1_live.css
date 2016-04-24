@@ -1,0 +1,29 @@
+.section #name-and-slogan {
+  color: #d6c50b;
+}
+
+#block-block-1 h2 {
+  color: #d6c50b;
+  font-size: 26px;
+  line-height: 1px;
+}
+
+.content p {
+  color: #d6c50b;
+  font-size: 15px;
+  line-height: 35px;
+}
+
+a span {
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#name-and-slogan #site-slogan {
+  line-height: 22px;
+}
+
+a img {
+  line-height: 55px;
+}
+
